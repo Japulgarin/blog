@@ -1,3 +1,4 @@
-Esta es  el primer proyecto en  gi.
+Esta es  el primer proyecto en  git.
 
-la vida de la persona qu naciao como nacio.
+Maña nos daremos a revisar su Cv para sber si lo contratamos 
+o no lo contratamos.
