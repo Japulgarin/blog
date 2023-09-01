@@ -1,2 +1,2 @@
 # blog
-Un blog par agithub y Git
+Un blog para github y Git
